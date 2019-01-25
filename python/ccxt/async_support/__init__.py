@@ -167,6 +167,7 @@ from ccxt.async_support.theocean import theocean                          # noqa
 from ccxt.async_support.therock import therock                            # noqa: F401
 from ccxt.async_support.tidebit import tidebit                            # noqa: F401
 from ccxt.async_support.tidex import tidex                                # noqa: F401
+from ccxt.async_support.tradeogre import tradeogre                        # noqa: F401
 from ccxt.async_support.uex import uex                                    # noqa: F401
 from ccxt.async_support.upbit import upbit                                # noqa: F401
 from ccxt.async_support.urdubit import urdubit                            # noqa: F401
@@ -302,6 +303,7 @@ exchanges = [
     'therock',
     'tidebit',
     'tidex',
+    'tradeogre',
     'uex',
     'upbit',
     'urdubit',

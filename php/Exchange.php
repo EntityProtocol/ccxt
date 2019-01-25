@@ -201,6 +201,7 @@ class Exchange {
         'therock',
         'tidebit',
         'tidex',
+        'tradeogre',
         'uex',
         'upbit',
         'urdubit',
